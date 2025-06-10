@@ -1,4 +1,0 @@
-Stipend;20000.0;Income;Salary
-movie;1000.0;Expense;Entertainment
-food;500.0;Expense;Food
-Utilities;800.0;Expense;Utilities
