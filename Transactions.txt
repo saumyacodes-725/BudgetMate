@@ -1,0 +1,3 @@
+;4567.0;Income;Salary
+;656.0;Expense;Trade
+;760.0;Expense;Entertainments
